@@ -1,5 +1,5 @@
 """
-This is a super simple program that will create a black square (if its inside the box)
+This is a super simple program that will create a black square (if its inside the box) when you click
 I made it for a project that I decided to turn in a different direction but it's still fun to mess around with the drawing
 feel free to use this for whatever you want I don't mind
 """
